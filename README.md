@@ -28,7 +28,7 @@ This project involves building a responsive personal portfolio website that effe
 
 ## 💡 Deployment
 
-You can access the website [here]((https://ayushisinha1719.github.io/)).
+You can access the website [here](https://ayushisinha1719.github.io/).
 
 ## 💬 Contact
 
